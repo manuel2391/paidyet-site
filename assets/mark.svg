@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <g transform="translate(456 552) rotate(-7) translate(-226 -280)">
+    <rect width="452" height="560" rx="22" fill="#5B6344"/>
+  </g>
+  <g transform="translate(512 494) rotate(4) translate(-226 -280)">
+    <g stroke="#2A2620" stroke-width="20" stroke-linejoin="round">
+      <path d="M 0 0 L 344 0 L 452 108 L 452 560 L 0 560 Z" fill="#FFFCF6"/>
+      <path d="M 344 0 L 344 108 L 452 108 Z" fill="#D8C4A8"/>
+    </g>
+      <path d="M 58 128 L 214 128" fill="none" stroke="#2A2620" stroke-width="20" stroke-linecap="round"/>
+      <path d="M 58 184 L 160 184" fill="none" stroke="#2A2620" stroke-width="20" stroke-linecap="round"/>
+  </g>
+  <path d="M 346 566 L 470 704 L 806 376" fill="none" stroke="#A85735" stroke-width="88" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
