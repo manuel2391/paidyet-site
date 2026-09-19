@@ -2,7 +2,7 @@
 layout: page
 title: Privacy Policy
 permalink: /privacy
-updated: 2026-09-14
+updated: 2026-09-19
 ---
 
 # Privacy Policy
@@ -33,6 +33,8 @@ If you turn on **Sync with iCloud**, the same information is stored in the priva
 ## Sharing and export
 
 When you share an invoice, a reminder or an export, you choose where it goes through the iOS share sheet. From that point it is handled by the app or service you picked.
+
+Diagnostics are generated only when you tap **Send diagnostics** in Settings → Data. They contain the app's own logs from that device, never your customer data, and go nowhere unless you share the file yourself.
 
 ## Your data, your control
 
