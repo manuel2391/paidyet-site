@@ -11,7 +11,7 @@ PaidYet is an invoicing app for self-employed tradespeople, made by Manuel Garri
 
 ## What the app stores
 
-PaidYet stores the information you enter: your business details and logo, your customers and their contacts, jobs, invoices, payments and your preferences. It is kept on your device.
+PaidYet stores the information you enter: your business details and logo, your customers and their contacts, jobs, quotes, invoices, payments, time entries, job photos and your preferences. It is kept on your device.
 
 ## iCloud
 
@@ -25,6 +25,8 @@ If you turn on **Sync with iCloud**, the same information is stored in the priva
 
 ## Apple services the app uses
 
+- **Camera and photos.** "Take photo" on a job uses the camera; "Choose photo" uses Apple's photo picker, which hands the app only the photos you pick. Job photos are stored with the rest of your data, on your device and — with sync on — in your own iCloud. PaidYet never asks for access to your photo library.
+- **Live Activity.** On iPhone, a running job timer shows in the Dynamic Island and on the Lock Screen. It runs on your device only; Pause and Stop there act on the same timer as in the app.
 - **Contacts.** PaidYet never asks for access to your contacts. When you import from the Contacts app, Apple's picker hands the app only the cards you tap.
 - **Maps.** When you type an address, the text you type is sent to Apple Maps to suggest addresses. "Open in Maps" opens the Maps app with the address.
 - **Dictation.** When you tap the microphone, audio is processed by Apple's speech recognition, on your device where available or otherwise by Apple's servers, under Apple's privacy terms.
