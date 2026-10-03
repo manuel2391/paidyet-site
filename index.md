@@ -8,6 +8,8 @@ layout: home
 
 Simple invoicing and payment tracking for self-employed tradespeople. Your data stays on your phone and in your own iCloud.
 
-[Help](/help)  ·  [Privacy Policy](/privacy)  ·  [Terms of Use](/terms)
+One price, every feature, nothing hidden — [read why](/manifesto).
+
+[Help](/help)  ·  [Manifesto](/manifesto)  ·  [Privacy Policy](/privacy)  ·  [Terms of Use](/terms)
 
 Support: magarridopaz@gmail.com
